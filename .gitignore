@@ -1,0 +1,16 @@
+# Secrets — GROQ_API_KEY lives here locally, never in the repo
+.env
+
+# Build artifacts, regenerable from the PDFs in data/
+data/dense_vectors.npy
+data/dense_ids.json
+data/bm25_index.pkl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Frontend
+frontend/node_modules/

@@ -1,0 +1,107 @@
+{
+  "Coffee, tea, mate and spices.pdf": {
+    "sha256": "6c4d83905f4a87a77317a03b0b9689610ebea2124a1d8935226e5e60d0d726e1",
+    "pages": 9,
+    "chunks": 21
+  },
+  "Cotton.pdf": {
+    "sha256": "3f6f92d37b9b13350c0001d393a836df59369d11509cc864a58fe14c261c222a",
+    "pages": 22,
+    "chunks": 50
+  },
+  "Fish.pdf": {
+    "sha256": "955b8f9196053dd3bdb52e7799cdd4518f63dd0380050a92d20049b8dbf8f0d9",
+    "pages": 17,
+    "chunks": 46
+  },
+  "General note.pdf": {
+    "sha256": "0821f495f9a8687dbd4a18eb3e0d9ae89566752b4c4942599abce529bf244353",
+    "pages": 41,
+    "chunks": 129
+  },
+  "Knitted or crocheted fabrics.pdf": {
+    "sha256": "f35e10179e35a9643b56a71df42b5e02d24378cb552f69d4525bd93ec633281f",
+    "pages": 3,
+    "chunks": 7
+  },
+  "Knitted or crocheted.pdf": {
+    "sha256": "cd06489800e509dbf38f1a8d69d9dc984cf76a28b5a0e334ec36bd1025aa5040",
+    "pages": 16,
+    "chunks": 49
+  },
+  "Natural or cultured pearls.pdf": {
+    "sha256": "7d8aab7913d11286b62c2e1a67166d5072f160d11dd44d44ffa2d9ebf2719384",
+    "pages": 23,
+    "chunks": 81
+  },
+  "Other made up textile articles.pdf": {
+    "sha256": "de01d3b2843270053afe42d4414919eb636a33ce7630c059ddb54088db695110",
+    "pages": 6,
+    "chunks": 13
+  },
+  "Pharmaceutical products.pdf": {
+    "sha256": "8e1f38942455b78f3ad7e22c2985c30a4f4c232478d9b449230279707d7a32ab",
+    "pages": 16,
+    "chunks": 48
+  },
+  "THE SECOND SCHEDULE - EXPORT TARIFF.pdf": {
+    "sha256": "b899f75aa5f1b811504e6b2ab21ef3628460721ed0244460be3ddc6b03e7f610",
+    "pages": 12,
+    "chunks": 33
+  },
+  "Vehicles other than railway or tramway rolling-stock.pdf": {
+    "sha256": "45d06b5c399b22b7b929b1668a88047ce684b948d55ffbcb00aaadb0adde511a",
+    "pages": 12,
+    "chunks": 32
+  },
+  "cereals2.pdf": {
+    "sha256": "a7935df644ec1f894d6057b736c11addd9f452f7d25f3d47da6f3cec963e8e77",
+    "pages": 3,
+    "chunks": 9
+  },
+  "dgft_ftp2023_chapter01_legal_framework.pdf": {
+    "sha256": "cbd54b1b764311129b272d5fe07321684951df0d465c4e9069585511ffab766b",
+    "pages": 8,
+    "chunks": 30
+  },
+  "dgft_ftp2023_chapter02_general_provisions.pdf": {
+    "sha256": "adabf9496854b8937adfe8ff3bbe5684b8aa620d48a8ef2a79a2432462fd04bd",
+    "pages": 16,
+    "chunks": 69
+  },
+  "dgft_general_notes_export_policy.pdf": {
+    "sha256": "df483994cf8638044f7598a31a3c7d7d198c57b9f845bdadb9bc187267c8e846",
+    "pages": 6,
+    "chunks": 13
+  },
+  "dgft_general_notes_import_policy_2025.pdf": {
+    "sha256": "e948889295e00171e200c7a1f4d7118db6fa3a5492470639ac84b2b7ee0d0be4",
+    "pages": 13,
+    "chunks": 38
+  },
+  "dgft_hbp_chapter02.pdf": {
+    "sha256": "fa49b362def4d8fd69dae721e88924a00235587a6881bbb215d9be0a6416fad2",
+    "pages": 101,
+    "chunks": 211
+  },
+  "dgft_schedule2_export_policy.pdf": {
+    "sha256": "4860966d9269061764306d92284d3b8386d4df05e27c6f524f520ec4cb575142",
+    "pages": 122,
+    "chunks": 200
+  },
+  "edible fruits and nuts.pdf": {
+    "sha256": "81e480eb8b22362cc12334a085cf59db1dc4c9ea7ad11e38daece00eff47b58a",
+    "pages": 6,
+    "chunks": 17
+  },
+  "not knitted or crocheted.pdf": {
+    "sha256": "8127e625c84eb7e5efe94a79bf5e6f4c6892c277876fcb3e84700e21de05ba52",
+    "pages": 18,
+    "chunks": 43
+  },
+  "organic chemicals.pdf": {
+    "sha256": "a806caf0a57826e15ea09bf623ffe328cd3d2b6e2f992ba568259a13c0946ec6",
+    "pages": 48,
+    "chunks": 148
+  }
+}
